@@ -1,14 +1,5 @@
-# Executable files
+.vscode/
 *.exe
 *.out
-
-# Object files
 *.o
 *.obj
-
-# Build folders
-build/
-bin/
-
-# VS Code settings
-./vscode
