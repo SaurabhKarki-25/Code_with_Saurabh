@@ -1,2 +1,14 @@
-.vscode
-.gitignore
+# Executable files
+*.exe
+*.out
+
+# Object files
+*.o
+*.obj
+
+# Build folders
+build/
+bin/
+
+# VS Code settings
+.vscode/
